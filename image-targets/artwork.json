@@ -1,7 +1,7 @@
 {
   "type": "PLANAR",
   "properties": {
-    "top": 11,
+    "top": 4,
     "left": 0,
     "width": 486,
     "height": 648,
@@ -18,6 +18,6 @@
     "thumbnailImage": "artwork_thumbnail.jpg",
     "luminanceImage": "artwork_luminance.jpg"
   },
-  "created": 1792028061895,
-  "updated": 1792028639097
+  "created": 1792034253210,
+  "updated": 1792034260378
 }
